@@ -108,7 +108,7 @@ ui <- fluidPage(
         sep     = ""
       ),
       
-      # Left-hand side help text ------------------------
+      # 🚩 Left-hand side help text ------------------------
       helpText(HTML(
         if (have_ggpattern) {
           paste0(
@@ -116,7 +116,7 @@ ui <- fluidPage(
             
             "<br><br><strong>TECHNICAL NOTES:</strong>",
             
-            "<br><br>All data come from the Public Service Employee Survey (PSES) 2022 and 2024.",
+            "<br><br>All data come from the Public Service Employee Survey (PSES) 2022 and 2024 (2022 data to come).",
             
             "<br><br>Results are presented for the Public Health Agency of Canada (PHAC) science workforce.
             These include EC, BI, EG, NU, SE, MD, VM, CH Groups.",
