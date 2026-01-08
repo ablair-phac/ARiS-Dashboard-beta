@@ -46,10 +46,6 @@ library(ggpattern)
 data <-read_excel("C:/Users/ablair/OneDrive - HC-SC PHAC-ASPC/ARiS/ARiS_by_Sex_EE_SciGrp.xlsx") # 🚨 Need to udpate this df with Q65 data
 
 
-# 🚩 Issues to be fixed------
-# 🚩 Missing Q65 in data
-
-
 #Graph aesthetics set-up--------------
 
 # Optional pattern support (install.packages("ggpattern") to enable textures)
